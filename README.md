@@ -1,2 +1,2 @@
-# Sporta-Viktor-na
+# Sporta Viktorīna
 Sporta Viktorīna ar Python un Tkinter.
